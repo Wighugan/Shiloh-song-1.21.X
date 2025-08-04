@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "shilohsong",
+	"version": "${version}",
+	"name": "Shiloh song",
+	"description": "Add Shiloh's song",
+	"authors": [
+		"Wighugan"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "",
+	"icon": "assets/shilohsong/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.wighugan.shilohsong.ShilohSong"
+		],
+		"fabric-datagen": [
+			"net.wighugan.shilohsong.ShilohSongDataGenerator"
+		],
+		"client": [
+			"net.wighugan.shilohsong.ShilohSongClient"
+		]
+	},
+	"mixins": [
+		"shilohsong.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
