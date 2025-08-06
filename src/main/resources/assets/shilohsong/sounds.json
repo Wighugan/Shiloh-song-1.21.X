@@ -1,0 +1,46 @@
+{
+  "so_low": {
+    "sounds": [
+      {
+        "name": "shilohsong:so_low",
+        "stream": true
+      }
+    ]
+  },
+
+  "hesitations": {
+    "sounds": [
+      {
+        "name": "shilohsong:hesitations",
+        "stream": true
+      }
+    ]
+  },
+
+  "novocaine": {
+    "sounds": [
+      {
+        "name": "shilohsong:novocaine",
+        "stream": true
+      }
+    ]
+  },
+
+  "endless": {
+    "sounds": [
+      {
+        "name": "shilohsong:endless",
+        "stream": true
+      }
+    ]
+  },
+
+  "is_this_too_much": {
+    "sounds": [
+      {
+        "name": "shilohsong:is_this_too_much",
+        "stream": true
+      }
+    ]
+  }
+}
