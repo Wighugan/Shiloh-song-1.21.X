@@ -5,6 +5,7 @@ import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
 import net.minecraft.data.client.BlockStateModelGenerator;
 import net.minecraft.data.client.ItemModelGenerator;
 import net.minecraft.data.client.Models;
+import net.minecraft.item.Item;
 import net.wighugan.shilohsong.item.ModItems;
 
 public class ModModelProvider extends FabricModelProvider {
@@ -20,10 +21,7 @@ public class ModModelProvider extends FabricModelProvider {
 
     @Override
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
-        itemModelGenerator.register(ModItems.MUSIC_DISC_SO_LOW, Models.GENERATED);
-        itemModelGenerator.register(ModItems.MUSIC_DISC_HESITATIONS, Models.GENERATED);
-        itemModelGenerator.register(ModItems.MUSIC_DISC_NOVOCAINE, Models.GENERATED);
-        itemModelGenerator.register(ModItems.MUSIC_DISC_IS_THIS_TOO_MUCH, Models.GENERATED);
-        itemModelGenerator.register(ModItems.MUSIC_DISC_ENDLESS, Models.GENERATED);
+        for (Item disc : ModItems.allDiscs)
+            itemModelGenerator.register(disc, Models.GENERATED);
     }
 }
