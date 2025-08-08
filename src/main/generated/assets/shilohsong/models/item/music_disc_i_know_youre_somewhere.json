@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "shilohsong:item/music_disc_i_know_youre_somewhere"
+  }
+}

@@ -1,8 +1,8 @@
 {
-  "comparator_output": 15,
-  "description": {
-    "translate": "item.shilohsong.music_disc_novocaine.desc"
-  },
-  "length_in_seconds": 194,
-  "sound_event": "shilohsong:novocaine"
+"comparator_output": 15,
+"description": {
+"translate":"item.shilohsong.music_disc_novocaine.desc"
+},
+"length_in_seconds": 147.33145,
+"sound_event":"shilohsong:novocaine"
 }

@@ -1,8 +1,8 @@
 {
-  "comparator_output": 15,
-  "description": {
-    "translate": "item.shilohsong.music_disc_endless.desc"
-  },
-  "length_in_seconds": 228,
-  "sound_event": "shilohsong:endless"
+"comparator_output": 15,
+"description": {
+"translate":"item.shilohsong.music_disc_endless.desc"
+},
+"length_in_seconds": 155.24255,
+"sound_event":"shilohsong:endless"
 }
