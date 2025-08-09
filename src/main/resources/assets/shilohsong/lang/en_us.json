@@ -1,18 +1,62 @@
 {
-  "item.shilohsong.music_disc_so_low": "Music Disc",
-  "item.shilohsong.music_disc_so_low.desc": "Shiloh Dynasty - So low",
+	"item.shilohsong.music_disc_again": "Music Disc",
+	"item.shilohsong.music_disc_again.desc": "Shiloh Dynasty - Again",
 
-  "item.shilohsong.music_disc_hesitations": "Music Disc",
-  "item.shilohsong.music_disc_hesitations.desc": "Shiloh Dynasty - Hesitations",
+	"item.shilohsong.music_disc_chasing_your_heart": "Music Disc",
+	"item.shilohsong.music_disc_chasing_your_heart.desc": "Shiloh Dynasty - Chasing your heart",
 
-  "item.shilohsong.music_disc_novocaine": "Music Disc",
-  "item.shilohsong.music_disc_novocaine.desc": "Shiloh Dynasty - Novocaine",
+	"item.shilohsong.music_disc_dear_industry": "Music Disc",
+	"item.shilohsong.music_disc_dear_industry.desc": "Shiloh Dynasty - Dear industry",
 
-  "item.shilohsong.music_disc_endless": "Music Disc",
-  "item.shilohsong.music_disc_endless.desc": "Shiloh Dynasty - Endless",
+	"item.shilohsong.music_disc_drunk_confused": "Music Disc",
+	"item.shilohsong.music_disc_drunk_confused.desc": "Shiloh Dynasty - Drunk confused",
 
-  "item.shilohsong.music_disc_is_this_too_much": "Music Disc",
-  "item.shilohsong.music_disc_is_this_too_much.desc": "Shiloh Dynasty - Is this too much?"
+	"item.shilohsong.music_disc_endless": "Music Disc",
+	"item.shilohsong.music_disc_endless.desc": "Shiloh Dynasty - Endless",
 
+	"item.shilohsong.music_disc_hesitations": "Music Disc",
+	"item.shilohsong.music_disc_hesitations.desc": "Shiloh Dynasty - Hesitations",
+
+	"item.shilohsong.music_disc_ill_keep_you_safe": "Music Disc",
+	"item.shilohsong.music_disc_ill_keep_you_safe.desc": "Shiloh Dynasty - I'll keep you safe",
+
+	"item.shilohsong.music_disc_imagination": "Music Disc",
+	"item.shilohsong.music_disc_imagination.desc": "Shiloh Dynasty - Imagination",
+
+	"item.shilohsong.music_disc_is_this_too_much": "Music Disc",
+	"item.shilohsong.music_disc_is_this_too_much.desc": "Shiloh Dynasty - Is this too much",
+
+	"item.shilohsong.music_disc_i_dont_want": "Music Disc",
+	"item.shilohsong.music_disc_i_dont_want.desc": "Shiloh Dynasty - I don't want",
+
+	"item.shilohsong.music_disc_i_know_youre_somewhere": "Music Disc",
+	"item.shilohsong.music_disc_i_know_youre_somewhere.desc": "Shiloh Dynasty - I know you're somewhere",
+
+	"item.shilohsong.music_disc_lonely": "Music Disc",
+	"item.shilohsong.music_disc_lonely.desc": "Shiloh Dynasty - Lonely",
+
+	"item.shilohsong.music_disc_losing_interest": "Music Disc",
+	"item.shilohsong.music_disc_losing_interest.desc": "Shiloh Dynasty - Losing interest",
+
+	"item.shilohsong.music_disc_nightmares": "Music Disc",
+	"item.shilohsong.music_disc_nightmares.desc": "Shiloh Dynasty - Nightmares",
+
+	"item.shilohsong.music_disc_novocaine": "Music Disc",
+	"item.shilohsong.music_disc_novocaine.desc": "Shiloh Dynasty - Novocaine",
+
+	"item.shilohsong.music_disc_peep_shit": "Music Disc",
+	"item.shilohsong.music_disc_peep_shit.desc": "Shiloh Dynasty - Peep shit",
+
+	"item.shilohsong.music_disc_sex": "Music Disc",
+	"item.shilohsong.music_disc_sex.desc": "Shiloh Dynasty - Sex",
+
+	"item.shilohsong.music_disc_so_innocent": "Music Disc",
+	"item.shilohsong.music_disc_so_innocent.desc": "Shiloh Dynasty - So innocent",
+
+	"item.shilohsong.music_disc_so_low": "Music Disc",
+	"item.shilohsong.music_disc_so_low.desc": "Shiloh Dynasty - So low",
+
+	"item.shilohsong.music_disc_waiting": "Music Disc",
+	"item.shilohsong.music_disc_waiting.desc": "Shiloh Dynasty - Waiting"
 
 }
