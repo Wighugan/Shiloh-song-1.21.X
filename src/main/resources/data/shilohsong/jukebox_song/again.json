@@ -3,6 +3,6 @@
 "description": {
 "translate":"item.shilohsong.music_disc_again.desc"
 },
-"length_in_seconds": 21.78775,
+"length_in_seconds": 28,
 "sound_event":"shilohsong:again"
 }

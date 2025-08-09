@@ -3,6 +3,6 @@
 "description": {
 "translate":"item.shilohsong.music_disc_losing_interest.desc"
 },
-"length_in_seconds": 8.8935,
+"length_in_seconds": 15,
 "sound_event":"shilohsong:losing_interest"
 }

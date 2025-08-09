@@ -3,6 +3,6 @@
 "description": {
 "translate":"item.shilohsong.music_disc_so_low.desc"
 },
-"length_in_seconds": 164.25484,
+"length_in_seconds": 205,
 "sound_event":"shilohsong:so_low"
 }
