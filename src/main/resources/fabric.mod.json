@@ -1,17 +1,17 @@
 {
 	"schemaVersion": 1,
 	"id": "shilohsong",
-	"version": "${version}",
+	"version": "1.21.1",
 	"name": "Shiloh song",
-	"description": "Add Shiloh's song",
+	"description": "Add Shiloh's songs",
 	"authors": [
 		"Wighugan"
 	],
 	"contact": {
 		"homepage": "",
-		"sources": ""
+		"sources": "https://github.com/Wighugan/Shiloh-song-1.21.X"
 	},
-	"license": "",
+	"license": "Mozilla Public License 2.0",
 	"icon": "assets/shilohsong/icon.png",
 	"environment": "*",
 	"entrypoints": {
