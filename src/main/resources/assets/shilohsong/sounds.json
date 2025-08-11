@@ -1,46 +1,182 @@
 {
-  "so_low": {
-    "sounds": [
-      {
-        "name": "shilohsong:so_low",
-        "stream": true
-      }
-    ]
-  },
+	"again": {
+		"sounds": [
+			{
+			"name": "shilohsong:again",
+			"stream": true
+			}
+		]
+	},
 
-  "hesitations": {
-    "sounds": [
-      {
-        "name": "shilohsong:hesitations",
-        "stream": true
-      }
-    ]
-  },
+	"chasing_your_heart": {
+		"sounds": [
+			{
+			"name": "shilohsong:chasing_your_heart",
+			"stream": true
+			}
+		]
+	},
 
-  "novocaine": {
-    "sounds": [
-      {
-        "name": "shilohsong:novocaine",
-        "stream": true
-      }
-    ]
-  },
+	"dear_industry": {
+		"sounds": [
+			{
+			"name": "shilohsong:dear_industry",
+			"stream": true
+			}
+		]
+	},
 
-  "endless": {
-    "sounds": [
-      {
-        "name": "shilohsong:endless",
-        "stream": true
-      }
-    ]
-  },
+	"drunk_confused": {
+		"sounds": [
+			{
+			"name": "shilohsong:drunk_confused",
+			"stream": true
+			}
+		]
+	},
 
-  "is_this_too_much": {
-    "sounds": [
-      {
-        "name": "shilohsong:is_this_too_much",
-        "stream": true
-      }
-    ]
-  }
+	"endless": {
+		"sounds": [
+			{
+			"name": "shilohsong:endless",
+			"stream": true
+			}
+		]
+	},
+
+	"hesitations": {
+		"sounds": [
+			{
+			"name": "shilohsong:hesitations",
+			"stream": true
+			}
+		]
+	},
+
+	"ill_keep_you_safe": {
+		"sounds": [
+			{
+			"name": "shilohsong:ill_keep_you_safe",
+			"stream": true
+			}
+		]
+	},
+
+	"imagination": {
+		"sounds": [
+			{
+			"name": "shilohsong:imagination",
+			"stream": true
+			}
+		]
+	},
+
+	"is_this_too_much": {
+		"sounds": [
+			{
+			"name": "shilohsong:is_this_too_much",
+			"stream": true
+			}
+		]
+	},
+
+	"i_dont_want": {
+		"sounds": [
+			{
+			"name": "shilohsong:i_dont_want",
+			"stream": true
+			}
+		]
+	},
+
+	"i_know_youre_somewhere": {
+		"sounds": [
+			{
+			"name": "shilohsong:i_know_youre_somewhere",
+			"stream": true
+			}
+		]
+	},
+
+	"lonely": {
+		"sounds": [
+			{
+			"name": "shilohsong:lonely",
+			"stream": true
+			}
+		]
+	},
+
+	"losing_interest": {
+		"sounds": [
+			{
+			"name": "shilohsong:losing_interest",
+			"stream": true
+			}
+		]
+	},
+
+	"nightmares": {
+		"sounds": [
+			{
+			"name": "shilohsong:nightmares",
+			"stream": true
+			}
+		]
+	},
+
+	"novocaine": {
+		"sounds": [
+			{
+			"name": "shilohsong:novocaine",
+			"stream": true
+			}
+		]
+	},
+
+	"peep_shit": {
+		"sounds": [
+			{
+			"name": "shilohsong:peep_shit",
+			"stream": true
+			}
+		]
+	},
+
+	"sex": {
+		"sounds": [
+			{
+			"name": "shilohsong:sex",
+			"stream": true
+			}
+		]
+	},
+
+	"so_innocent": {
+		"sounds": [
+			{
+			"name": "shilohsong:so_innocent",
+			"stream": true
+			}
+		]
+	},
+
+	"so_low": {
+		"sounds": [
+			{
+			"name": "shilohsong:so_low",
+			"stream": true
+			}
+		]
+	},
+
+	"waiting": {
+		"sounds": [
+			{
+			"name": "shilohsong:waiting",
+			"stream": true
+			}
+		]
+	}
+
 }
